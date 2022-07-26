@@ -10,8 +10,8 @@ juntamente com a base no github.
 
 ## Observações
 <p align="justify">
-Como maneira de Segurança, o projeto foi desenvolvido levando em conta que os usuários ja estarão logados no GitHub, portanto nenhum passo sobre Login e Senha foram
-implementados no projeto.
+Como maneira de Segurança, o projeto foi desenvolvido levando em conta que os usuários ja estarão logados no GitHub e no Kaggle, 
+portanto nenhum passo sobre Login e Senha foram implementados no projeto.
 </p>
 
 <p align="justify">
@@ -29,6 +29,16 @@ pag.position()
     Diretorios: No inicio da sessão Analise de Dados, e na sessão final Adicionar Projeto ao Repositório, o usuário deverá remanejar seus respectivos diretorios para
     funcionamento do projeto, sendo que, os 2 primeiros remanejamentos serão relacionados a base de dados baixada, e o final será o projeto completo.
   </li>
+</ul>
+
+## Bibliotecas Utilizadas
+<ul>
+  <li>pyautogui</li>
+  <li>pyperclip</li>
+  <li>time</li>
+  <li>pandas</li>
+  <li>matplotlib.pyplot</li>
+  <li>seaborn</li>
 </ul>
 
 ## Confira Abaixo o Funcionamento do Projeto
